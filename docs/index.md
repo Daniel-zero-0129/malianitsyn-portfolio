@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Вітаю у моєму портфоліо!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![Це я](images/me.jpg)
 
-## Commands
+Мене звати Данило Масляніцин, я студент Державного університету «Житомирська політехніка». 
+Цей сайт є моїм індивідуальним комплексним проєктом з дисципліни «Технології та інструменти електронної документації». Моя мета — стати професійним розробником, тому я приділяю значну увагу не лише написанню коду, а й створенню якісної технічної документації.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+У цьому проєкті я реалізую концепцію «Docs as Code», інтегруючи навички роботи з Git, Markdown та MkDocs
+Тут представлені результати моєї роботи за перший семестр, зокрема опис моїх проєктів та компетенцій, які я розвиваю на шляху до професійного становлення.
